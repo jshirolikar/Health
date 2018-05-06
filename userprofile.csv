@@ -1,0 +1,4 @@
+name,age,gender,maritalstatus,physicalhandicap,fips,cacna1c,undergraduate,employed,race,perceptualspeed,opioidriskscore,weeklyearnings,homeloans
+Jane,23,0,0,0,1001,1,1,0,asian,0,1,1000,0
+Robert,32,1,1,1,6075,0,0,1,white,1,0.23,2000,1
+Martha,78,0,0,0,5119,0,0,1,white,0,0.6,200,0
